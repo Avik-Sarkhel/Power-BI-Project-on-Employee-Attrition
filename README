@@ -1,42 +1,58 @@
-# Power BI Sales Dashboard 📊
+# Employee Attrition Dashboard – Power BI 📊
 
-This project is a Sales Analysis Dashboard created using **Power BI**, inspired by the tutorial by [Codebasics on YouTube](https://www.youtube.com/watch?v=j4xlVLgsmNQ&list=PLdOKnrf8EcP2ivbQIcVuknjdlUqkoprKo&index=2).
-
----
-
-## 🎯 Objective
-To create an interactive dashboard that provides insights into overall sales, profit, customer segments, and regional performance using a fictional Superstore dataset.
+This is an interactive **Employee Attrition Analysis** dashboard built using **Power BI** to explore trends related to employee turnover, job satisfaction, salary hikes, and department-wise attrition risk.
 
 ---
 
-## 📁 Project Files
+## 🧠 Project Overview
+The project identifies key patterns that contribute to employee attrition by analyzing various HR-related parameters. The goal is to uncover potential risk factors and guide HR teams to make data-driven decisions.
+
+---
+
+## 📁 Files Included
 | File | Description |
 |------|-------------|
-| `Attrition Project.pbix` | Final Power BI dashboard file |
-| `dataset.xlsx` | Dataset used for creating the dashboard |
-| `Attrition Project.pdf` | Preview of the final dashboard (PDF) |
-
----
-
-## 💻 Tools Used
-- Microsoft Power BI
-- Excel (for data prep)
+| `Attrition project.pbix` | Power BI Dashboard file |
+| `dataset.xlsx` | HR dataset used in the analysis |
+| `Attrition project.pdf` | PDF version of dashboard/storyboard |
+| `DashboardScreenshot.png` | Static snapshot of the dashboard |
+| `Dashboard Record.gif` | Short dashboard interaction demo |
 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](images/DashboardScreenshot.png)
+
+![Dashboard Screenshot](./DashboardScreenshot.png)
 
 ---
 
-## 📺 Original Tutorial Source
-This project was built by following this excellent YouTube tutorial by Codebasics:  
-🔗 [Watch the Tutorial](https://www.youtube.com/watch?v=j4xlVLgsmNQ&list=PLdOKnrf8EcP2ivbQIcVuknjdlUqkoprKo&index=2)
+## 🎬 Live Demo (GIF)
+
+![Dashboard Record](./Dashboard%20Record.gif)
 
 ---
 
-## 🙋‍♂️ Author
+## 💡 Key Insights
+- Highest attrition in **Sales and R&D departments**
+- **Mid-level employees** show more volatility
+- **Stock options and job satisfaction** are significant retention factors
+- Recommendation: Increase engagement & review stock option plans
+
+---
+
+## 🧰 Tools Used
+- Power BI
+- Excel
+- GIF Recorder for demo
+
+---
+
+## 👨‍💻 Author
 **Avik Sarkhel**  
 🎓 MCA | Aspiring Data Analyst  
-📫 [avik305sarkhel@gmail.com](mailto:avik305sarkhel@gmail.com) | [LinkedIn](#)
+📧 [avik305sarkhel@gmail.com](mailto:avik305sarkhel@gmail.com)  
+🔗 [LinkedIn](#) https://www.linkedin.com/in/avik-sarkhel/
 
+---
+
+> 🚀 Feel free to fork this repo or use the dashboard as a template for your own HR analytics projects!
