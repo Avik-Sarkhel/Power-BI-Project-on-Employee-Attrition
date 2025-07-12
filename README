@@ -1,0 +1,42 @@
+# Power BI Sales Dashboard 📊
+
+This project is a Sales Analysis Dashboard created using **Power BI**, inspired by the tutorial by [Codebasics on YouTube](https://www.youtube.com/watch?v=j4xlVLgsmNQ&list=PLdOKnrf8EcP2ivbQIcVuknjdlUqkoprKo&index=2).
+
+---
+
+## 🎯 Objective
+To create an interactive dashboard that provides insights into overall sales, profit, customer segments, and regional performance using a fictional Superstore dataset.
+
+---
+
+## 📁 Project Files
+| File | Description |
+|------|-------------|
+| `Attrition Project.pbix` | Final Power BI dashboard file |
+| `dataset.xlsx` | Dataset used for creating the dashboard |
+| `Attrition Project.pdf` | Preview of the final dashboard (PDF) |
+
+---
+
+## 💻 Tools Used
+- Microsoft Power BI
+- Excel (for data prep)
+
+---
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](images/DashboardScreenshot.png)
+
+---
+
+## 📺 Original Tutorial Source
+This project was built by following this excellent YouTube tutorial by Codebasics:  
+🔗 [Watch the Tutorial](https://www.youtube.com/watch?v=j4xlVLgsmNQ&list=PLdOKnrf8EcP2ivbQIcVuknjdlUqkoprKo&index=2)
+
+---
+
+## 🙋‍♂️ Author
+**Avik Sarkhel**  
+🎓 MCA | Aspiring Data Analyst  
+📫 [avik305sarkhel@gmail.com](mailto:avik305sarkhel@gmail.com) | [LinkedIn](#)
+
