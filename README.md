@@ -61,7 +61,7 @@ Understanding employee attrition helps organizations reduce turnover costs and i
 **Avik Sarkhel**  
 🎓 MCA | Aspiring Data Analyst  
 📫 [avik305sarkhel@gmail.com](mailto:avik305sarkhel@gmail.com)  
-🔗 [LinkedIn](#) (https://www.linkedin.com/in/avik-sarkhel/)
+🔗 [LinkedIn](https://www.linkedin.com/in/avik-sarkhel/)
 
 ---
 
